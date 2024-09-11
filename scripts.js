@@ -61,7 +61,7 @@ homeDiv.addEventListener('click', function(event) {
     event.preventDefault();
     let userResponse = confirm('Go to Home?');
     if (userResponse) { 
-        window.location.href = 'http://127.0.0.1:5500/index.html';  
+        window.location.href = 'https://sunil9984.github.io/my_portfolio/';  
     } 
 });
 
